@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Flask web framework
+Flask==2.0.1
+
+# SQLAlchemy for database interaction
+SQLAlchemy==1.4.25
+
+# Requests for making HTTP requests
+requests==2.26.0
+
+# Pillow for image processing
+Pillow==8.4.0
